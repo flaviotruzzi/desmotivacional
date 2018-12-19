@@ -44,7 +44,17 @@ var phrases = [
     "Uma mulher te cantou...era um travesti.",
     "Sua cara metade virou gay!",
     "Ele ainda se lembra de você. Com raiva!",
-    "Não desanime com a derrota de hoje. Amanhã tem outra."
+    "Não desanime com a derrota de hoje. Amanhã tem outra.",
+    "Jesus só te ama por quê não convive com você",
+    "Não importa as escolhas que você faça,</br> você vai estragar tudo do mesmo jeito!",
+    "Nem sua mãe acredita no seu sucesso!",
+    "Vai dar tudo certo!</br> ...menos pra você!",
+    "Que merda é essa na minha cama? </br> Ah... Sou só eu!",
+    "Seu primo mais novo tá ganhando bem mais que você",
+    "Sua vida social no the sims não conta como uma",
+    "A vida é bela,</br> mas voc não!",
+    "Tente ser feliz sem seus remédios",
+    "Seja um fracassado,</br> culpe seus pais pelo seu fracasso"
 ];
 
 var setOverlay = function() {
