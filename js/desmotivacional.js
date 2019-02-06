@@ -52,7 +52,7 @@ var phrases = [
     "Que merda é essa na minha cama? </br> Ah... Sou só eu!",
     "Seu primo mais novo tá ganhando bem mais que você",
     "Sua vida social no the sims não conta como uma",
-    "A vida é bela,</br> mas voc não!",
+    "A vida é bela,</br> mas você não!",
     "Tente ser feliz sem seus remédios",
     "Seja um fracassado,</br> culpe seus pais pelo seu fracasso"
 ];
